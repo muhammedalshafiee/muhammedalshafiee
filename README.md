@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @muhammedalshafiee
+- 👀 I’m interested in Embedded Systems
+- 🌱 I’m currently learning ARM Microcontroller
+- 💞️ I’m looking to collaborate on Projects involving automotive
+- 📫 How to reach me [Linked In](https://www.linkedin.com/in/muhammed-alshafie/)
